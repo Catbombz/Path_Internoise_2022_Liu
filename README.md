@@ -1,6 +1,14 @@
-# Path Model of a (1,4,4) ANC System
+# Path Models
 
-This is a path model measured in our lab for (1,4,4) ANC simulation.
+## ANC111_pathModel_duct.mat
+
+Path models of a single-channel ANC system measured in a duct of our lab.
+
+P is the primary path model and S is the secondary path model.
+
+## ANC144_pathModel.mat
+
+Path models measured in our lab for (1,4,4) ANC simulation.
 
 It contains two variables, corresponding to the primary path and the secondary path.
 
