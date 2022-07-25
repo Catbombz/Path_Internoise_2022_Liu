@@ -19,4 +19,4 @@ For Model_Secondary, , the four dimensions represent secondary source number, ti
 ---
 Please cite following article if this path model is used in your work.
 
-A rapid modeling method for secondary paths in a multi-channel ANC system based on time-division linear frequency modulation signals. Inter-noise 2022.
+Yujie Fu, Chunyu Liu, Chuang Shi. Applying the remote microphone method in the filtered error least mean squares algorithm. INTERNOISE, Glasgow, Aug. 2022.
